@@ -15,6 +15,11 @@ A simple task management API built with **Node.js**, **Express**, and **PostgreS
 - Database: PostgreSQL (hosted on Neon)
 - Deployment: Local (Vercel-ready)
 
+## 🌐 Live API
+
+**Base URL:**  
+https://tasks-steel-six.vercel.app
+
 ## Endpoints
 
 | Method | Endpoint            | Description            |
