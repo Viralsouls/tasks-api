@@ -2,8 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![GitHub repo size](https://img.shields.io/github/repo-size/Viralsouls/tasks-api?color=blue&label=Repo%20Size)](https://github.com/Viralsouls/tasks-api)
 [![Last commit](https://img.shields.io/github/last-commit/Viralsouls/tasks-api?color=green)](https://github.com/Viralsouls/tasks-api/commits/main)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Viralsouls.tasks-api&left_color=blue&right_color=green)
-
+![Repo views](https://komarev.com/ghpvc/?username=Viralsouls&label=Repo%20Views&color=blue&style=flat)
 
 # Task API
 
