@@ -1,6 +1,7 @@
 [![Vercel](https://vercelbadge.vercel.app/api/Viralsouls/tasks-api)](https://vercel.com)
-[![GitHub license](https://img.shields.io/github/license/Viralsouls/tasks-api)](https://github.com/Viralsouls/tasks-api/main/LICENSE)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![GitHub repo size](https://img.shields.io/github/repo-size/Viralsouls/tasks-api?color=blue&label=Repo%20Size)](https://github.com/Viralsouls/tasks-api)
+[![Last commit](https://img.shields.io/github/last-commit/Viralsouls/tasks-api?color=green)](https://github.com/Viralsouls/tasks-api/commits/main)
 
 # Task API
 
