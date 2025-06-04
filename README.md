@@ -1,3 +1,7 @@
+[![Vercel](https://vercelbadge.vercel.app/api/Viralsouls/tasks-api)](https://vercel.com)
+[![GitHub license](https://img.shields.io/github/license/Viralsouls/tasks-api)](https://github.com/Viralsouls/tasks-api/blob/main/LICENSE)
+
+
 # Task API
 
 A simple task management API built with **Node.js**, **Express**, and **PostgreSQL**, using **Neon** for cloud database hosting.
